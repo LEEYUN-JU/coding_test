@@ -29,7 +29,7 @@ for j in range(0, len(num)):
     if num[j] == 0 and j == 0:
         total = 0
     
-    if num[j] != 0:
+    if num[j] > 1:
         temp_total = total * num[j]
         
         if temp_total > 2000000000:
