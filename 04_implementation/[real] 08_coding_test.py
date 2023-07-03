@@ -5,7 +5,7 @@ Created on Tue May 16 09:57:09 2023
 @author: labpc
 """
        
-#
+#문자열 재정렬
 
 import string
 import numpy as np
