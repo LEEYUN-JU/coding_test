@@ -5,7 +5,7 @@ Created on Tue May 16 09:57:09 2023
 @author: labpc
 """
        
-#
+#럭키 스트레이트
 
 import numpy as np
 import random
