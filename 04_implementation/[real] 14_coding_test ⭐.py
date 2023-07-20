@@ -1,4 +1,7 @@
 from itertools import permutations
+from itertools import combinations 
+
+#combination 과 permutations를 잘 활용하여 문제풀기
 
 def solution(n, weak, dist):
     
