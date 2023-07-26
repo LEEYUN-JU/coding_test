@@ -66,7 +66,7 @@ def dfs(count):
                 data[i][j] == 1
                 count += 1
                 dfs(count)
-                data[i][j] == 0
+                data[i][j] = 0
                 count -= 1
                 
 dfs(0)
