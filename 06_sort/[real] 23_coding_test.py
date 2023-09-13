@@ -22,6 +22,8 @@ antena = sorted(antena, key=lambda house:house[0])
 
 print(antena[0][1])
 
+#이 문제는 단순히 모든 집의 위치 정보를 입력받은 뒤에, 이를 정렬해서 중간값을 출력하면 정답 판정을 받을 수 있다고 한다..
+
 #아래는 정답 코드
 n = int(input())
 data = list(map(int, input().split()))
